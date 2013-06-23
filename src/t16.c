@@ -34,4 +34,5 @@ void main()
    输入输出在main中实现。如输入"you HAVE 10 books,don't you? "  
    输出"You Have 10 Books,Don't You?"。单词以空格、逗号、句号分隔。
 
+    难度系数：**
   */

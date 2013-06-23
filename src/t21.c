@@ -28,4 +28,5 @@ int fun(char *str,char ch)
 编写函数int fun(char *str,char ch),统计字符串str中
    指定字符ch的个数,统计结果作为函数返回值带回.
    
+	   难度系数：*
    */

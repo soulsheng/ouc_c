@@ -35,4 +35,5 @@ void main()
     之后插入一个*号。
     例，形参s所指的字符串为：def35adh3kjsdf7。执行结果为：def3*5*adh3*kjsdf7*。
 
+    难度系数：*
   */

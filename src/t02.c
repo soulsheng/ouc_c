@@ -40,4 +40,5 @@ void main()
     当s为”good luck”，t为”thank you very much”时，
     输出：”thanyverm”
 
+    难度系数：***
   */
