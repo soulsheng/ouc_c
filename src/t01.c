@@ -16,7 +16,8 @@ long fun(long int x)
 		x=x/10;
 	}
 
-	y= y*10 + x;
+	if( x%2 != 0 )
+		y= y*10 + x;
 
 	return y;
 }
