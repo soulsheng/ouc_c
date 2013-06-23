@@ -42,3 +42,11 @@ void main()
  puts(b);
  
 }
+
+/*
+
+  编写函数void fun(char *s1,char *s2)，功能是：对形参s1所指字符串升序排序，
+   并将排序后下标为偶数的字符取出，写入形参s2所指字符数组中，形成一个新串。
+   例如，下面程序若输入：The C Programming Language<回车>  输出：□□LTaegghmnor。(□表空格)
+
+  */

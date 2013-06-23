@@ -22,3 +22,11 @@ int fun(char (*ss)[N],int m,char *s)
   printf("len=%d,str=%s\n",len,b);
  
  }
+
+ /*
+
+  编写函数int fun(char (*ss)[N],int m,char *s)，功能是：形参ss指向一个m行N列的
+    二维字符数组，每行存放一个字符串。求出最大的字符串，复制到s所指的字符数组中，
+    然后返回此最大字符串的长度。
+
+  */

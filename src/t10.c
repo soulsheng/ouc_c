@@ -28,3 +28,11 @@ void main()
  puts(str);
 
 }
+
+/*
+
+  给定程序中，函数void fun(char *s)的功能是：在形参s所指字符串中的每个数字字符
+    之后插入一个*号。
+    例，形参s所指的字符串为：def35adh3kjsdf7。执行结果为：def3*5*adh3*kjsdf7*。
+
+  */

@@ -30,3 +30,14 @@ void main()
  fun(s1,s2,s3);
  puts(s3);
 } 
+
+/*
+
+  编写函数void fun(char *s,char *t,char *p)将未在字符串s中出现、
+    而在字符串t中出现的字符, 形成一个新的字符串放在p中,p中字符按
+    原字符串中字符顺序排列,但去掉重复字符。
+    例如: 当s为"12345", t为"8624677"时, p中的字符为: "867";
+    当s为”good luck”，t为”thank you very much”时，
+    输出：”thanyverm”
+
+  */
